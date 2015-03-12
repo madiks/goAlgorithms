@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./sort"
 	"fmt"
+	"goAlgorithms/sort"
 )
 
 func main() {
